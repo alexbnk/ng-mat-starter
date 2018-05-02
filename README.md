@@ -58,3 +58,9 @@ import 'hammerjs';
 
  Step 6 (Optional): Add Material Icons
  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+ Install flex-layout 
+ npm install @angular/flex-layout --save
+
+ 

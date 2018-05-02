@@ -2,3 +2,9 @@
 
 
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+html, body {
+    font-family:  Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 100%;
+}
